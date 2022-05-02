@@ -4,10 +4,14 @@
 Gör om ditt memomry till Svelte
 
 ## Bildspel
+Visa olika bilder på ett fiffigt sätt.
 
 
 ## Söka fram bilder via API
-ex. Flickr eller unsplsah API.
+ex. Flickr eller unsplash API.
+- https://www.flickr.com/services/api/
+- https://unsplash.com/developers
+
 
 ## Hangman
 Klassiska hänga gubbe med HTML, CSS och JS.
