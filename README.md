@@ -5,10 +5,22 @@ Gör om ditt memomry till Svelte
 
 ## Bildspel
 
+
 ## Söka fram bilder via API
 ex. Flickr eller unsplsah API.
 
 ## Hangman
+Klassiska hänga gubbe med HTML, CSS och JS.
+
+### Instruktioner
+Du ska bygga det klassiska spelet **hangman** ( el. hänga gubbe på sve ). Använd ```hangman.svg```.
+
+![screen](hangman-screen.png)
+
+## Whack A Mole
+Litet vanilla JS projekt där man ska koda det klassiska spelet Whack-A-Mole.
+
+![screen](mole-screen.png)
 
 
 ## Tärningsspel
